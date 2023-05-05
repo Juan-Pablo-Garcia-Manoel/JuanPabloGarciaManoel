@@ -2,6 +2,19 @@
 ### :coffee: ***Café***
 🌱 Atualmente estou aprendendo ...
 
+<html>
+  
+  <head>
+  
+  </head>
+  <body>
+     <div class="coffee-cup">
+      <div class="steam"></div>
+    </div>
+
+  </body>
+  
+</html>
 
 <!--
 **JuanPabloGarciaManoel/JuanPabloGarciaManoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
