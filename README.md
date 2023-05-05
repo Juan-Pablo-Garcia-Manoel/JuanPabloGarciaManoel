@@ -1,6 +1,6 @@
 ### Olá Mundo!!! 👋
 ### :coffee: ***Café***
--🌱 I’m currently learning ...
+🌱 I’m currently learning ...
 
 
 
