@@ -1,6 +1,8 @@
 ### Olá Mundo!!! 👋
+### :coffee: ***Café***
+-🌱 I’m currently learning ...
 
-### :coffee: ***Café***;
+
 
 <!--
 **JuanPabloGarciaManoel/JuanPabloGarciaManoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
