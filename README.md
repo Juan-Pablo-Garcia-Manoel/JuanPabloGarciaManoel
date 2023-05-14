@@ -1,4 +1,4 @@
-### :coffee: ... Olá Mundo!!! 
+### :coffee: Olá Mundo!!! 
 🌱 Atualmente estou aprendendo ...
 
 <!--
