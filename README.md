@@ -6,5 +6,5 @@
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloGarciaManoel&layout=compact&hide_border=true&title_color=ddd9ce&text_color=ddd9ce&bg_color=0d1117"/>
 </div>
 
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=fffff4&height=120&section=footer"/>
 
